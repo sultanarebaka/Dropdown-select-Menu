@@ -3,4 +3,18 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background: #DDFFBC;
+}
+.select-menu{
+    width: 380px;
+    margin: 140px auto;
+}
+.select-menu .select-btn{
+    display: flex;
+    height: 55px;
+    background: #fff;
 }
