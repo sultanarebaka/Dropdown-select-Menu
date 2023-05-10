@@ -31,7 +31,11 @@ body{
 .select-menu .options{
     position: relative;
     padding: 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+    
 }
+
 
 
 
